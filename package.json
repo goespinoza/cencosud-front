@@ -21,7 +21,7 @@
     "@angular/router": "~8.2.8",
     "bootstrap": "^4.3.1",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "rxjs": "~6.4.0",
     "socket.io-client": "^2.3.0",
     "tslib": "^1.10.0",
